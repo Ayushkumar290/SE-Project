@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cfd320cb-a2a0-4385-943f-9be2cbf38d01" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/BloodDonationSecurity/src/main/java/se/RBC/BloodDonationSecurity/Config/ResourceServerSecurityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BloodDonationSecurity/src/main/java/se/RBC/BloodDonationSecurity/Security/AuthEntryPointJwt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BloodDonationSecurity/src/main/java/se/RBC/BloodDonationSecurity/Security/AuthTokenFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BloodDonationSecurity/src/main/java/se/RBC/BloodDonationSecurity/Security/JwtUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DonorProfileService/src/main/java/se/RBC/DonorProfileService/Config/DonorProfileSecurityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DonorProfileService/src/main/java/se/RBC/DonorProfileService/Controllers/DonorProfileController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DonorProfileService/src/main/java/se/RBC/DonorProfileService/Models/DonorProfile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DonorProfileService/src/main/java/se/RBC/DonorProfileService/Repository/DonorProfileRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DonorProfileService/src/main/java/se/RBC/DonorProfileService/Services/DonorProfileService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UserMangmentService/src/main/java/se/RBC/UserMangmentService/Config/SpringConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UserMangmentService/src/main/java/se/RBC/UserMangmentService/Controller/AuthController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UserMangmentService/src/main/java/se/RBC/UserMangmentService/DTO/Request/LoginRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UserMangmentService/src/main/java/se/RBC/UserMangmentService/DTO/Request/RegisterRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UserMangmentService/src/main/java/se/RBC/UserMangmentService/DTO/Response/JwtResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UserMangmentService/src/main/java/se/RBC/UserMangmentService/DTO/Response/MessageResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UserMangmentService/src/main/java/se/RBC/UserMangmentService/Enum/UserRole.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UserMangmentService/src/main/java/se/RBC/UserMangmentService/Impl/UserDetailsImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UserMangmentService/src/main/java/se/RBC/UserMangmentService/Models/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UserMangmentService/src/main/java/se/RBC/UserMangmentService/Repository/UserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UserMangmentService/src/main/java/se/RBC/UserMangmentService/Services/UserDetailsServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Frontend/RBC/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Frontend/RBC/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Frontend/RBC/eslint.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Frontend/RBC/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Frontend/RBC/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Frontend/RBC/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Frontend/RBC/public/vite.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Frontend/RBC/src/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Frontend/RBC/src/App.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Frontend/RBC/src/Utils.js/api.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Frontend/RBC/src/assets/react.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Frontend/RBC/src/components/Dashboard.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Frontend/RBC/src/components/Login.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Frontend/RBC/src/components/ProtectedRoute.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Frontend/RBC/src/contexts/AuthContext.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Frontend/RBC/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Frontend/RBC/src/main.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Frontend/RBC/vite.config.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="35sAmHa674NWXZ4JnsuTD8AtSHg" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/ayush/Desktop/SE project/Backend&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="Backend" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="Backend" />
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="Backend" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <module name="Backend" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cfd320cb-a2a0-4385-943f-9be2cbf38d01" name="Changes" comment="" />
+      <created>1763888562881</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1763888562881</updated>
+    </task>
+    <servers />
+  </component>
+</project>
